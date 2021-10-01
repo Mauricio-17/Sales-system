@@ -1,0 +1,5 @@
+* Durante la creación del CRUD señalar bien los parametros de cada función y las 
+  consecuencias o cambios que generará
+* En el modelo entidad-relación, en la capa de vista se tendra que reemplazar 
+  algunos campos que no serán mostrados (por lo general campos foráneos), por 
+  ejemplo: producto => producto.nameCategory en lugar de producto => producto.idCat
